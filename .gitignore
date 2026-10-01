@@ -1,0 +1,6 @@
+@"
+.venv/
+venv/
+__pycache__/
+*.pyc
+"@ | Set-Content -Encoding ascii .gitignore
